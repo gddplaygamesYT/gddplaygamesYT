@@ -1,0 +1,23 @@
+
+body {
+  background: #0a0a0a;
+  color: white;
+  font-family: sans-serif;
+  text-align: center;
+  padding: 2rem;
+}
+.avatar {
+  width: 200px;
+  border-radius: 1rem;
+}
+.language-toggle button {
+  margin: 0 10px;
+  padding: 10px 20px;
+  font-size: 1rem;
+}
+.links a {
+  display: inline-block;
+  margin: 1rem;
+  color: #00ffff;
+  text-decoration: none;
+}
